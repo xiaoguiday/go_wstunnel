@@ -19,7 +19,7 @@ NC='\033[0m'
 # 项目配置
 GO_VERSION="1.22.3"
 PROJECT_DIR="/usr/local/src/go_wstunnel"
-GITHUB_REPO="xiaoguiday/xiyang110"
+GITHUB_REPO="xiaoguiday/go_wstunnel"
 SERVICE_NAME="wstunnel"
 BINARY_NAME="wstunnel-go"
 DEPLOY_DIR="/usr/local/bin/wstunnel"
