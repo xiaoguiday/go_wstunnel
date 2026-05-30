@@ -201,7 +201,7 @@
 直接下载预编译版本。
 
 ```bash
-curl -sSO https://raw.githubusercontent.com/xiaoguiday/xiyang110/main/go_wstunnel_mini.sh && bash go_wstunnel_mini.sh
+curl -sSO https://raw.githubusercontent.com/xiaoguiday/go_wstunnel/main/go_wstunnel_mini.sh && bash go_wstunnel_mini.sh
 ```
 
 ### 自动完成
@@ -232,7 +232,7 @@ curl -sSO https://raw.githubusercontent.com/xiaoguiday/xiyang110/main/go_wstunne
 执行：
 
 ```bash
-curl -sSO https://raw.githubusercontent.com/xiaoguiday/xiyang110/main/wsttunnel-go-install.sh && bash wsttunnel-go-install.sh
+curl -sSO https://raw.githubusercontent.com/xiaoguiday/go_wstunnel/main/wsttunnel-go-install.sh && bash wsttunnel-go-install.sh
 ```
 
 ### 自动完成
