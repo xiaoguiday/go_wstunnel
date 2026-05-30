@@ -12,7 +12,7 @@ set -e
 GREEN='\033[0;32m'; YELLOW='\033[1;33m'; RED='\033[0;31m'; NC='\033[0m'
 GO_VERSION="1.22.3"
 PROJECT_DIR="/usr/local/src/go_wstunnel"
-GITHUB_REPO="xiaoguiday/xiyang110"
+GITHUB_REPO="xiaoguiday/go_wstunnel"
 BRANCH="main"
 SERVICE_NAME="wstunnel"
 BINARY_NAME="wstunnel-go"
